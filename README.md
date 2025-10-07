@@ -29,7 +29,7 @@ In January **2026**, I’ll **begin my Master’s in Software Engineering** to s
 ---
 
 ### 🌐 Current Focus
-- 🧩 Migrating local microservices to AWS Lambda + DynamoDB + EC3
+- 🧩 Migrating local microservices to AWS Lambda + DynamoDB + EC2
 - 💻 Building Saas Api for restaurant/bakery apps in Springboot
 - 💻 Learning Swift and develops some apps for IOS (Pomodoro, budget tracker)
 - ⚡ Running self-hosted infrastructure (Proxmox, Docker, Nextcloud, GitLab)  
